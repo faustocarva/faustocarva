@@ -12,8 +12,8 @@
 - Programming: Java, R, Bash.
 - Database: SQL Server.
 - Agile practices: XP, Scrum, TDD, CI/CD.
-- Framework: Spring, Shiny.
-- ORM: Hibernate, NHibernate and JPA.
+- Framework: Spring, Spring Boot, Shiny.
+- ORM: Hibernate, JPA.
 - Dependency manager: Maven.
 - Container Tools: Docker.
 
