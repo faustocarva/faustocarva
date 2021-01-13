@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there 👋🏽
 
-<!--
-**faustocarva/faustocarva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My current status
+- 🔭 I'm currently working at Brazilian Public Prosecutor's Office
+- 🌱 I’m currently learning Fuzzing, Static Analysis
+- 👨🏽‍💻 I'm software engineer interested in Linux development, build systems, CI/CD (DevOps) and security. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+#### Current
+- Programming: Java, R, Bash.
+- Database: SQL Server.
+- Agile practices: XP, Scrum, TDD, CI/CD.
+- Framework: Spring, Shiny
+- ORM: Hibernate, NHibernate and JPA
+- Dependency manager: Maven
+- Container Tools: Docker
+
+#### Worked with
+- Programming: C, C++, Bash, Haskell, Delphi. 
+- Database: Oracle, Postgresql, MySQL, SQLite
+- Build: Make, CMake, AutoTools, AutoMake.
+- Platforms: CLI, Embedded, Desktop, Web, On-Premise.
+- Other Tools: SVN, Git, CxxTest, JUnit, CppTest, Jenkins, Docker.
+
+
+## 💻 Personal Page
+
+ - https://faustocarva.github.io/
+ 
