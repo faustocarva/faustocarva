@@ -2,8 +2,8 @@
 
 
 ### My current status
-- 🔭 I'm currently working at Brazilian Public Prosecutor's Office
-- 🌱 I’m currently learning Fuzzing, Static Analysis
+- 🔭 I'm currently working at Brazilian Public Prosecutor's Office.
+- 🌱 I’m currently learning Fuzzing and Static Analysis.
 - 👨🏽‍💻 I'm software engineer interested in Linux development, build systems, CI/CD (DevOps) and security. 
 
 ### Stack
@@ -12,10 +12,10 @@
 - Programming: Java, R, Bash.
 - Database: SQL Server.
 - Agile practices: XP, Scrum, TDD, CI/CD.
-- Framework: Spring, Shiny
-- ORM: Hibernate, NHibernate and JPA
-- Dependency manager: Maven
-- Container Tools: Docker
+- Framework: Spring, Shiny.
+- ORM: Hibernate, NHibernate and JPA.
+- Dependency manager: Maven.
+- Container Tools: Docker.
 
 #### Worked with
 - Programming: C, C++, Bash, Haskell, Delphi. 
